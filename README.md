@@ -1,4 +1,4 @@
-# Chaabi_Assignment
+# Project_CSV
 The repository contains files for a chatbot to chat with provided csv file.<br />
 I have createod a streamlit app and an api using fastapi to show the final processed output for the given query.<br />
 Following are some of the screenshots of the working code for both streamlitapp and api:<br />
